@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120250903831",
+    "project_id": "ldsw-juego2d",
+    "storage_bucket": "ldsw-juego2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120250903831:android:e0cde6ebb839a439a71b52",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Unidad3_Juego2D"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRxJdyrlceas8fhshqcJO6cgKhiiV1d2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120250903831:android:1ddc7f4c210f908fa71b52",
+        "android_client_info": {
+          "package_name": "com.personal.juego2d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRxJdyrlceas8fhshqcJO6cgKhiiV1d2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
