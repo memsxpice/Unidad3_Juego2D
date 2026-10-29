@@ -23,7 +23,7 @@ public class Data : MonoBehaviour
 
     void Start()
     {
-        ObtenerDocumento();
+        //ObtenerDocumento();
     }
 
     async void ObtenerDocumento()

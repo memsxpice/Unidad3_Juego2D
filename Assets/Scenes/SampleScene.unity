@@ -176,6 +176,7 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
   - component: {fileID: 519420030}
+  - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -301,6 +302,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &519420033
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a879fc6de5e4b5e4db8887d1083a9b9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Data
+  monedas: 0
 --- !u!1 &1277328718
 GameObject:
   m_ObjectHideFlags: 0
@@ -474,8 +488,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::JohnMovement
   BulletPrefab: {fileID: 7546167406409680544, guid: f5c831baaa043434f8f96f9a83aca5c3, type: 3}
-  JumpForce: 150
   Speed: 1
+  JumpForce: 150
 --- !u!95 &1277328724
 Animator:
   serializedVersion: 7
